@@ -11,22 +11,15 @@
   font-family: 'licorice', cursive;
   text-decoration: underline;
 }
-.second-article {
-  background-color: green;
-  color: black;
-  border: 5px black solid;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-}
+
 .first-h2 {
   color: black;
   font-style: italic;
-  font-size: 20px;
   font-family: 'licorice', cursive;
 }
 .second-h1 {
   color: purple;
   font-size: 30px;
-  text-align: center;
 }
 .second-h2 {
   color: red;
@@ -38,6 +31,9 @@
   color: blue;
   border: 5px blue dashed;
   font-family: "Courier New", Courier, monospace;
+}
+.second-p {
+  font-size: 18px;
 }
 
 .fancy-button {
