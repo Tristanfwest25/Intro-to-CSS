@@ -17,10 +17,7 @@
   font-style: italic;
   font-family: 'licorice', cursive;
 }
-.second-h1 {
-  color: purple;
-  font-size: 30px;
-}
+
 .second-h2 {
   color: red;
   text-transform: uppercase;
@@ -49,5 +46,5 @@
 }
 body {
   font-family: 'Courier New', Courier, monospace;
-  background-color: lightblue;
+  background-color: lightgray;
 }
